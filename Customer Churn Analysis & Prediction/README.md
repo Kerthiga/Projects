@@ -13,6 +13,8 @@ The Telco Customer Churn dataset includes:
 - Monthly & total charges
 - Churn status (Yes/No)
 
+  Dataset link : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 ---
 
 ## Tools & Technologies
